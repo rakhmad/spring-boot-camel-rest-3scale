@@ -31,7 +31,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
     <!-- configure the versions you want to use here -->
-    <fabric8.version>7.8.0.fuse-sb2-780038-redhat-00001</fabric8.version>
+    <fabric8.version>3.0.12</fabric8.version>
     <spring-boot.version>1.5.4.RELEASE</spring-boot.version>
 
     <!-- Maven plugin versions -->
